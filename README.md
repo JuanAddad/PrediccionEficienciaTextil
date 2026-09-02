@@ -16,4 +16,4 @@ de variables como edad, salud, rol, supervisor y patrones temporales.
 pandas · matplotlib · seaborn · scipy · scikit-learn · XGBoost
 
 ### Nota
-Proyecto de aprendizaje desarrollado en el curso Data Science I — Coderhouse (2025)
+Proyecto de aprendizaje en Python, uso de librerías y desarrollo de pronósticos
