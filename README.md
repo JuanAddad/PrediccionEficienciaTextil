@@ -1,4 +1,4 @@
-## Employee Efficiency Prediction — Learning Project
+## Predicción de empleados de Empresa Textil — Learning Project
 Dataset: Kaggle — Factory workforce (411K observations, 18 months)
 
 ### Objetivo
